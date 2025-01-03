@@ -1,4 +1,5 @@
 ***IF YOU EXPERIENCE ANY ERRORS OR BUGS PLEASE CONTACT US, TO FIND OUT HOW TO CONTACT US READ THE CONTACTING SECTION.***
+***DUE TO THE SSD AND RAM EDITING OF VERUSA, YOU HAVE TO TURN OFF YOUR ANTI VIRUS BECAUSE IT MIGHT DETECTED AS FLASE POSITIVE.***
 
 # Verusa
 The Verusa Tool is a small project created by the Verusa team for Educational purposes only. We do not condone any harm caused by the use of our software!
@@ -15,11 +16,11 @@ The Verusa Tool is a small project created by the Verusa team for Educational pu
 
 3. What happened to the old Verusa alpha?
 
-   Our discord got taken down, hence why we lost all our members. We already tought of new methods to keep in contact with our members. (Check Contact Section).
+   Our discord got taken down due to the nature of the program, hence why we lost all our members. We already brought of new methods to keep in contact with our members. (Check Contact Section).
 
 4. Where do I find the real website incase theres fake ones?
 
-   The real and only website of Verusa will FOREVER be **host1999.github.io/Verusa/** [Click here for the Website](https://host1999.github.io/Verusa/)
+   The real and only website of Verusa will FOREVER be **([Verusa-Tool/](https://verusa-real.github.io/Verusa-Tool/))**
 
 ### Profits
 
